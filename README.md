@@ -69,3 +69,23 @@
 - [디스페처 서블릿의 흐름](https://giron.tistory.com/111)
 - [리플랙션 API](https://giron.tistory.com/112)
 - [패스워드 저장 시 단방향 해시 함수의 문제점과 해결법](https://giron.tistory.com/118)
+
+
+## 🐥 Level 3 : Team Project
+
+> 공식(공유해줘 너의 지식) : 우테코 크루들을 위한 질문 게시판
+- [공식 서비스](https://gongseek.site/)
+- [공식 깃허브](https://github.com/woowacourse-teams/2022-gong-seek)
+
+__데모 영상__
+
+|Project|Description|
+|-|---|
+|1차 데모 동영상|[프로젝트 설명 & 팀문화](https://www.youtube.com/watch?v=REILvP6YXy4)|
+|2차 데모 동영상|[CI/CD & 브랜치 전략 & API 설계](https://www.youtube.com/watch?v=6fya54RMtzA)|
+|3차 데모 동영상|[테스트 전략 & 자동화 테스트 & 로깅 전략 & HTTPS](https://www.youtube.com/watch?v=ZA48GkZuEYY)|
+|4차 데모 동영상|[정적 분석 리포트 & CloudWatch logs 대시보드](https://www.youtube.com/watch?v=QtfPt4WTAKk)|
+
+### 포스팅
+
+- [너무 많아서 전부 못 담으므로 블로그에서 보기](https://giron.tistory.com/)
