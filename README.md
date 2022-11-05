@@ -39,10 +39,10 @@
 
 
 ## 🐣 Level 2 : Web Programming with Spring
-
+- spark 에서 spring boot로 이전한다.
 - Spring 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
 - TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
-- 구현한 프로그램을 서버에 배포하는 경험을 한다.
+- 데코레이터 패턴, 어뎁터 패턴 등 다양한 디자인 패턴을 적용
 
 |Project|Repository|Pull Request|
 |-|---|---|
