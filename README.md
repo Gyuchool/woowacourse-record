@@ -53,7 +53,7 @@
 |지하철 경로 조회 + 로그인|[atdd-subway-path-step1](https://github.com/Gyuchool/atdd-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/181)|
 ||[atdd-subway-path-step2](https://github.com/Gyuchool/atdd-subway-path/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/287)|
 |장바구니|[jwp-shopping-cart-step1](https://github.com/Gyuchool/jwp-shopping-cart/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/73)|
-||[jwp-shopping-cart-step2](https://github.com/Gyuchool/jwp-shopping-cart/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/129)|
+||[jwp-shopping-cart-step2](https://github.com/Gyuchool/jwp-shopping-cart/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/129)|
 
 ### 포스팅
 
