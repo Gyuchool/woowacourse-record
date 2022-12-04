@@ -89,3 +89,24 @@ __데모 영상__
 ### 포스팅
 
 - [너무 많아서 전부 못 담으므로 블로그에서 보기](https://giron.tistory.com/)
+
+
+## 🐔 Level 4 : 스프링 구현 및 레거시 코드 리펙토링
+
+- 톰캣을 구현하며 HTTP와 서블릿에 대한 이해도를 높이고, 쓰레드와 쓰레드풀을 적용해보고 동시성 처리를 경험한다.
+- MVC 프레임워크를 구현하고 점진적인 리팩터링을 경험한다.
+- JDBC 라이브러리를 구현하며 데이터베이스에 대한 이해도를 높인다.
+- 레거시 프로젝트를 리팩터링하는 경험을 통해 서비스를 안정적으로 운영하면서 레거시 코드를 리팩터링할수 있는 역량을 키운다.
+
+
+|Project|Repository|Pull Request|
+|-|---|---|
+|톰캣 구현하기|[jwp-chess-step1](https://github.com/Gyuchool/jwp-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/402)|
+||[jwp-chess-step2](https://github.com/Gyuchool/jwp-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/467)|
+|@MVC 구현하기|[atdd-subway-map-step1](https://github.com/Gyuchool/atdd-subway-map/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/191)|
+||[atdd-subway-map-step2](https://github.com/Gyuchool/atdd-subway-map/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/277)|
+|JDBC 라이브러리 구현하기|[atdd-subway-path-step1](https://github.com/Gyuchool/atdd-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/181)|
+||[atdd-subway-path-step2](https://github.com/Gyuchool/atdd-subway-path/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/287)|
+|레거시 코드 리펙토링|[jwp-shopping-cart-step1](https://github.com/Gyuchool/jwp-shopping-cart/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/73)|
+||[jwp-shopping-cart-step2](https://github.com/Gyuchool/jwp-shopping-cart/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/129)|
+
