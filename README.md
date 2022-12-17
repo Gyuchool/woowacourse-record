@@ -103,9 +103,9 @@ __데모 영상__
 |-|---|---|
 |톰캣 구현하기|[jwp-dashboard-http-step1](https://github.com/Gyuchool/jwp-dashboard-http/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/174)|
 ||[jwp-dashboard-http-step2](https://github.com/Gyuchool/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/236)|
-|MVC 구현하기|[jwp-dashboard-mvc-step1](https://github.com/Gyuchool/atdd-subway-map/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/118)|
-||[jwp-dashboard-mvc-step2](https://github.com/Gyuchool/atdd-subway-map/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/237)|
-||[jwp-dashboard-mvc-step3](https://github.com/Gyuchool/atdd-subway-map/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/290)|
+|MVC 구현하기|[jwp-dashboard-mvc-step1](https://github.com/Gyuchool/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/118)|
+||[jwp-dashboard-mvc-step2](https://github.com/Gyuchool/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/237)|
+||[jwp-dashboard-mvc-step3](https://github.com/Gyuchool/jwp-dashboard-mvc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/290)|
 |JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc-step1](https://github.com/Gyuchool/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/75)|
 ||[jwp-dashboard-jdbc-step2](https://github.com/Gyuchool/jwp-dashboard-jdbc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/136)|
 ||[jwp-dashboard-jdbc-step3](https://github.com/Gyuchool/jwp-dashboard-jdbc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/189)|
