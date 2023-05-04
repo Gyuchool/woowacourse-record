@@ -92,6 +92,7 @@ __데모 영상__
 |2차 데모 동영상|[CI/CD & 브랜치 전략 & API 설계](https://www.youtube.com/watch?v=6fya54RMtzA)|
 |3차 데모 동영상|[테스트 전략 & 자동화 테스트 & 로깅 전략 & HTTPS](https://www.youtube.com/watch?v=ZA48GkZuEYY)|
 |4차 데모 동영상|[정적 분석 리포트 & CloudWatch logs 대시보드](https://www.youtube.com/watch?v=QtfPt4WTAKk)|
+|5차 데모 동영상|[부하 테스트 & 조회 쿼리 성능 개선](https://www.youtube.com/watch?v=zxIGV94Na6M&list=PLgXGHBqgT2TsWUA5puZimG3DDlJTd370Q&index=9)|
 
 ### 포스팅
 
